@@ -182,7 +182,7 @@ I'm currently working on improving my skills and building more projects that dem
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href=https://www.linkedin.com/in/arshit-luthra-440994297/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD6lEF4g2RIqUcRUfTtXanA%3D%3D>
+<a href= "https://www.linkedin.com/in/arshit-luthra-440994297/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ4gq8rGjRuWKCqBXABd9JA%3D%3D">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
